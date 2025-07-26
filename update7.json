@@ -1,0 +1,15 @@
+{
+  "data": {
+    "items": [
+      {
+        "devicetype": "FOC",
+        "hasnew": true,
+        "version": "K3E13J23-32KPH-MAX",
+        "date": "1721970540",
+        "size": "27792",
+        "url": "https://github.com/maxjocoder/niu_firmware/raw/main/OTA_NIU_K3E13J23_32KPH_MAX_220718.bin",
+        "md5": "783daf8181f6e38d5fd84bf5cca98dcf"
+      }
+    ]
+  }
+}
