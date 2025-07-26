@@ -1,0 +1,15 @@
+{
+  "data": {
+    "items": [
+      {
+        "devicetype": "FOC",
+        "hasnew": true,
+        "version": "K2E13J23-TEST6",
+        "date": "1721958720",
+        "size": "27956",
+        "url": "https://github.com/maxjocoder/niu_firmware/raw/main/OTA_NIU_K2E13J23_38KPH_TEST6.bin",
+        "md5": "f90879a5b082aad80297ce31e313d787"
+      }
+    ]
+  }
+}
